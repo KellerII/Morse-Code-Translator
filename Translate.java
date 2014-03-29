@@ -1,8 +1,6 @@
 /*
 Programming Assignment:  Morse Code
 Name:  James Keller
-Class Info:  1213 - 001 / Lab 6 
-Date:  3/28/2012
 Purpose:  Translate Class (see main method for the complete program description) 
 */
 
